@@ -1,4 +1,4 @@
-####App that return geo coordinates according to ip address given in get query request.
+#### App that return geo coordinates according to ip address given in get query request.
 
 Build on Laravel 5.6  
 
